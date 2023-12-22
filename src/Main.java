@@ -13,5 +13,6 @@ public class Main {
         System.out.println("Addition is " +(input1+input2));
         System.out.println("Substraction is " +(input1-input2));
         System.out.println("Multiplication is " + (input1*input2));
+        System.out.println("Division is " + (input1/input2));
     }
 }
