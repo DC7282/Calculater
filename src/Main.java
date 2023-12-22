@@ -12,5 +12,6 @@ public class Main {
         double input2= sc.nextDouble();
         System.out.println("Addition is " +(input1+input2));
         System.out.println("Substraction is " +(input1-input2));
+        System.out.println("Multiplication is " + (input1*input2));
     }
 }
